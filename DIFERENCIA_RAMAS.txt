@@ -1,0 +1,23 @@
+diff --git a/main.txt b/main.txt
+index 9743896..e269493 100644
+--- a/main.txt
++++ b/main.txt
+@@ -36,21 +36,4 @@ public class MostrarNumeros {
+
+     }
+
+-       public static double sumar(double a, double b) {
+-
+-        return a + b;
+-
+-    }
+-public static double multiplicar(double a, double b) {
+-
+-        return a * b;
+-
+-    }
+-
+-public static double potencia(double base, double exponente) {
+-
+-        return Math.pow(base, exponente);
+-
